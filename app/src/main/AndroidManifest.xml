@@ -1,27 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.anupdumalwad.androidapp">
+<<<<<<< Original<?xml version="1.0" encoding="utf-8"?><manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="com.example.anupdumalwad.androidapp">
 
-    <application
-        android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
-        android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+<application
+    android:allowBackup="true"
+    android:icon="@mipmap/ic_launcher"
+    android:label="@string/app_name"
+    android:roundIcon="@mipmap/ic_launcher_round"
+    android:supportsRtl="true"
+    android:theme="@style/AppTheme">
+    <activity android:name=".MainActivity">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity android:name=".studentsignup" />
-        <activity android:name=".professorsignup" />
-<<<<<<< HEAD
-=======
-        <activity android:name=".SecondActivity"></activity>
->>>>>>> b9d5d460c254937b197e5e19b03158f620ea5f7a
-    </application>
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+    </activity>
+    <activity android:name=".studentsignup" />
+    <activity android:name=".professorsignup" />
 
-</manifest>
+    <
+    <
+    <
+    <
+    <
+    <
+    < HEAD
+    =======
+    <activity android:name=".SecondActivity"></activity>
+    >>>>>>> b9d5d460c254937b197e5e19b03158f620ea5f7a
+</application>
+
+</manifest>=======<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+package="com.example.anupdumalwad.androidapp">
+
+<application>
+    <activity
+        android:name="com.example.anupdumalwad.androidapp.third"
+        android:label="@string/title_activity_third"
+        android:theme="@style/AppTheme.NoActionBar"></activity>
+</application>
+</manifest>>>>>>>> Added
