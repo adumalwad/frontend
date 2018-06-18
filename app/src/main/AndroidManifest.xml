@@ -18,6 +18,10 @@
         </activity>
         <activity android:name=".studentsignup" />
         <activity android:name=".professorsignup" />
+<<<<<<< HEAD
+=======
+        <activity android:name=".SecondActivity"></activity>
+>>>>>>> b9d5d460c254937b197e5e19b03158f620ea5f7a
     </application>
 
 </manifest>
